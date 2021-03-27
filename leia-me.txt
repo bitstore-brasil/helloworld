@@ -1,0 +1,2 @@
+﻿maiores informações sobre o helloword:
+https://webocreation.com/blog/opencart-3-custom-module-development-tutorial-hello-world-module/
